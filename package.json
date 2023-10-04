@@ -1,5 +1,5 @@
 {
-  "name": "veramo-agent-deploy",
+  "name": "veramo-heroku-test-deploy",
   "version": "1.0.0",
   "description": "General purpose Veramo Agent configuration deployments",
   "repository": "https://github.com/uport-project/veramo-agent-deploy",
