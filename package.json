@@ -2,7 +2,7 @@
   "name": "veramo-heroku-test-deploy",
   "version": "1.0.0",
   "description": "General purpose Veramo Agent configuration deployments",
-  "repository": "https://github.com/uport-project/veramo-agent-deploy",
+  "repository": "https://github.com/mireceanis/veramo-heroku-test-deploy",
   "author": "jason.healy@mesh.xyz",
   "license": "Apache-2.0",
   "scripts": {
